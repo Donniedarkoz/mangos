@@ -89,7 +89,7 @@ enum BattleGroundMarksCount
 
 enum BattleGroundSpells
 {
-    SPELL_ARENA_PREPARATION         = 32727,                // use this one, 32728 not correct
+    SPELL_ARENA_PREPARATION         = 44521,                // use this one, 32728 not correct
     SPELL_ALLIANCE_GOLD_FLAG        = 32724,
     SPELL_ALLIANCE_GREEN_FLAG       = 32725,
     SPELL_HORDE_GOLD_FLAG           = 35774,
